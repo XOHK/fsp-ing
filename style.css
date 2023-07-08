@@ -100,15 +100,15 @@ nav ul a:first-child {
 }
 
 .modal-content {
-  background-color: #fefefe;
+  background-color: #5454fff0;
   margin: auto;
   padding: 20px;
   border: 1px solid #888;
-  width: 400px;
+  width: 330px;
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding: 20px;
+  padding: 30px;
 }
 
 .modal-content form {
